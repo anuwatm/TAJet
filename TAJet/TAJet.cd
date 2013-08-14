@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TAJet.Crypto">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="TAJet.Crypto.KeySize" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Crypto.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="TAJet.Crypto.Algorithm">
+        <TypeIdentifier>
+          <NewMemberFileName>Crypto.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="TAJet.Crypto.EncodingType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Crypto.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>wgAApIwASgCCAAwRYAGIBgAAhAiWAEQCAGIICAB4gQI=</HashCode>
+      <FileName>Crypto.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TAJet.Database" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAUIABAKAAQQEcAxAgAAAEABwiCAAAAAALAAA=</HashCode>
+      <FileName>Database.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TAJet.ManageFormat">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="TAJet.ManageFormat.TypeofDB" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Database.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="TAJet.ManageFormat.TypeYear" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Database.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="TAJet.ManageFormat.TypeConvertChar" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Database.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAQAAAAEQAAAAAAA=</HashCode>
+      <FileName>Database.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TAJet.Utilities">
+    <Position X="0.5" Y="2.25" Width="2.25" />
+    <NestedTypes>
+      <Enum Name="TAJet.Utilities.TypeCheck" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Database.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACIAAAQQAIAAAAAAAAAAACAABUAAEBABAABA=</HashCode>
+      <FileName>Database.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TAJet.ErrorDetail" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAACAACIAAAggAAAAEACAAAAAAAAAAABEAAAAABAAAA=</HashCode>
+      <FileName>ErrorDetail.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TAJet.AD" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAACAAAAACAAAAAAQAAEAICAgAABAgCAAAAAAAAAAA=</HashCode>
+      <FileName>AD.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TAJet.ComputerInfo">
+    <Position X="7.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAACAAAAACAAAAAMAAAAAAAAAAAI=</HashCode>
+      <FileName>HW_Info.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TAJet.SystemInfo">
+    <Position X="10" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="TAJet.SystemInfo.OSArch" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>HW_Info.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Struct Name="TAJet.SystemInfo.OSVERSIONINFO" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>HW_Info.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAACAAACAIAAQCAQkAEAMIUAAAAAAgAgAAQAQ=</HashCode>
+      <FileName>HW_Info.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TAJet.WebTools.WebFileDownloader" Collapsed="true">
+    <Position X="3.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAGAAAAAAACgAAgAAQIAAAAAAAAAAACAAAAQ=</HashCode>
+      <FileName>WebFileDownloader.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TAJet.WebTools.webUtilities">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAQACAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>WebFileDownloader.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TAJet.WebTools.MailUtilities">
+    <Position X="3.75" Y="4.25" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="TAJet.WebTools.MailUtilities.mMessage" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>WebFileDownloader.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="TAJet.WebTools.MailUtilities.STMPDesc" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>WebFileDownloader.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WebFileDownloader.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TAJet.POP3" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAPAAAAIQIAAAAgAAAAIBgAIAAAAAAAAAEQA=</HashCode>
+      <FileName>POP3.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TAJet.EmailMessage" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgEABAAAAAAEAAIAAAAA=</HashCode>
+      <FileName>POP3.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
